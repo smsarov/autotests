@@ -38,7 +38,7 @@
 
 1. Клонирование репозитория:
    ```sh
-   git clone <URL-репозитория>
+   git clone https://github.com/smsarov/autotests.git
    cd autotests
    ```
 
